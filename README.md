@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobboy65
 - 👀 I’m interested in ... React and Smart Contracts
 - 🌱 I’m currently learning ... React to build my first webpage
-- 💞️ I’m looking to collaborate on ... Smart Contracts/Origin Marketplace NFT Minting and support for clients
+- 💞️ I’m looking to collaborate on ... Smart Contracts/Origin Marketplace NFT Minting and support for clients eventually
 - 📫 How to reach me ...
 
 <!---
