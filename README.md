@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobboy65
+- 👋 Hi, I’m Mike
 - 👀 I’m interested in ... React, Full Stack app development, Emerging Technologies
 - 🌱 I’m currently learning ... Django, building off of my knowledge of Flask, SQLAlchemy, MongoDB
 - 💞️ I’m looking to collaborate on ... Full Stack Projects, Smart Contracts, C Projects
