@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobboy65
 - 👀 I’m interested in ... React, Full Stack app development, Emerging Technologies
-- 🌱 I’m currently learning ... Django, building off of my knowledge of Flask, SQLAlchemy, React native
-- 💞️ I’m looking to collaborate on ... Mobile App development, Smart Contracts, JS, React JS
+- 🌱 I’m currently learning ... Django, building off of my knowledge of Flask, SQLAlchemy, MongoDB
+- 💞️ I’m looking to collaborate on ... Full Stack Projects, Smart Contracts, C Projects
 - 📫 How to reach me ... scmikeyt@yahoo.com
 
 <!---
