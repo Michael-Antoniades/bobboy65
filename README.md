@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike
-- 👀 I’m interested in ... React, Full Stack app development, Emerging Technologies
-- 🌱 I’m currently learning ... Django, building off of my knowledge of Flask, SQLAlchemy, MongoDB
+- 👀 I’m interested in ... React, Full Stack development, Emerging Technologies
+- 🌱 I’m currently learning ... More Python, building off of my knowledge of Flask, SQLAlchemy, MongoDB
 - 💞️ I’m looking to collaborate on ... Full Stack Projects, Smart Contracts, C Projects
 - 📫 How to reach me ... scmikeyt@yahoo.com
 
